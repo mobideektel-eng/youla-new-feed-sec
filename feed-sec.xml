@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-23 15:28">
+<yml_catalog date="2026-11-23 15:46">
   <shop>
     <name>Мобидик</name>
     <company>ИП Пономарёв Богдан Александрович</company>
@@ -22,25 +22,6 @@
 Изображение создано ИИ; это иллюстрация модели, не фотография товара.</description>
         <param name="Память">128GB</param>
         <param name="Цвет">Blue</param>
-        <param name="Состояние">Новое</param>
-        <param name="SIM">SIM+eSIM</param>
-        <vas>
-          <turbo>0</turbo>
-          <premium>0</premium>
-          <boost>0</boost>
-        </vas>
-      </offer>
-      <offer id="new-sec-iphone-15-plus" available="true">
-        <name>Apple iPhone 15 Plus 128 ГБ Pink SIM+eSIM</name>
-        <price>67990</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-sec-iphone-15-plus/specs_card-f75956f5ef24dfbc698aa29b7f417fa309e3ef199110c61faff69240bcf93ca8.jpg</picture>
-        <description>Apple iPhone 15 Plus  128 ГБ  цвет Pink  SIM SIM+eSIM.
-Новый телефон. Цена: 67 990 ₽.
-Изображение создано ИИ; это иллюстрация модели, не фотография товара.</description>
-        <param name="Память">128GB</param>
-        <param name="Цвет">Pink</param>
         <param name="Состояние">Новое</param>
         <param name="SIM">SIM+eSIM</param>
         <vas>
@@ -87,25 +68,6 @@
           <boost>0</boost>
         </vas>
       </offer>
-      <offer id="new-sec-iphone-16-plus" available="true">
-        <name>Apple iPhone 16 Plus 128 ГБ Black SIM+eSIM</name>
-        <price>73990</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-sec-iphone-16-plus/specs_card-7a94f0ff28be0f19bcccce0351cf82bd102b879fa7a99be296b62db551ebf411.jpg</picture>
-        <description>Apple iPhone 16 Plus  128 ГБ  цвет Black  SIM SIM+eSIM.
-Новый телефон. Цена: 73 990 ₽.
-Изображение создано ИИ; это иллюстрация модели, не фотография товара.</description>
-        <param name="Память">128GB</param>
-        <param name="Цвет">Black</param>
-        <param name="Состояние">Новое</param>
-        <param name="SIM">SIM+eSIM</param>
-        <vas>
-          <turbo>0</turbo>
-          <premium>0</premium>
-          <boost>0</boost>
-        </vas>
-      </offer>
       <offer id="new-sec-iphone-16-pro" available="true">
         <name>Apple iPhone 16 Pro 128 ГБ White SIM+eSIM</name>
         <price>90990</price>
@@ -138,25 +100,6 @@
         <param name="Цвет">Desert</param>
         <param name="Состояние">Новое</param>
         <param name="SIM">SIM+eSIM</param>
-        <vas>
-          <turbo>0</turbo>
-          <premium>0</premium>
-          <boost>0</boost>
-        </vas>
-      </offer>
-      <offer id="new-sec-iphone-16e" available="true">
-        <name>Apple iPhone 16e 128 ГБ Black eSIM+eSIM</name>
-        <price>49990</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-sec-iphone-16e/specs_card-726cf4116878fceedf8c2349695f25c8bd44ce51ab2ea853733953f85eada384.jpg</picture>
-        <description>Apple iPhone 16e  128 ГБ  цвет Black  SIM eSIM+eSIM.
-Новый телефон. Цена: 49 990 ₽.
-Изображение создано ИИ; это иллюстрация модели, не фотография товара.</description>
-        <param name="Память">128GB</param>
-        <param name="Цвет">Black</param>
-        <param name="Состояние">Новое</param>
-        <param name="SIM">eSIM+eSIM</param>
         <vas>
           <turbo>0</turbo>
           <premium>0</premium>
@@ -233,25 +176,6 @@
         <param name="Цвет">Orange</param>
         <param name="Состояние">Новое</param>
         <param name="SIM">eSIM+eSIM</param>
-        <vas>
-          <turbo>0</turbo>
-          <premium>0</premium>
-          <boost>0</boost>
-        </vas>
-      </offer>
-      <offer id="new-sec-iphone-17e" available="true">
-        <name>Apple iPhone 17e 256 ГБ Pink SIM+eSIM</name>
-        <price>66990</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-sec-iphone-17e/specs_card-dfcada86b58553c66419241978a4407b637e926021c9219c0ac0d3e00f7f313e.jpg</picture>
-        <description>Apple iPhone 17e  256 ГБ  цвет Pink  SIM SIM+eSIM.
-Новый телефон. Цена: 66 990 ₽.
-Изображение создано ИИ; это иллюстрация модели, не фотография товара.</description>
-        <param name="Память">256GB</param>
-        <param name="Цвет">Pink</param>
-        <param name="Состояние">Новое</param>
-        <param name="SIM">SIM+eSIM</param>
         <vas>
           <turbo>0</turbo>
           <premium>0</premium>
